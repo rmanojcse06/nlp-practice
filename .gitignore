@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-file.txt
+
+# Unit test / coverage reports
+.coverage
+.tox/
+.nox/
+
+# Virtual environment
+.env/
+venv/
+env/
+.venv/
+/venv
+/env
+
+# IDEs and editors
+.idea/             # PyCharm, IntelliJ
+.vscode/           # VS Code
+*.sublime-project
+*.sublime-workspace
+.DS_Store          # macOS
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+
+# Temporary files
+*.tmp
+*.log
+
+# Jupyter Notebook temporary files
+.ipynb_checkpoints
